@@ -1,0 +1,30 @@
+{
+	"name": "logger",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/seggev319/logger.git"
+	},
+	"author": "Seggev Shoresh <shoresh319@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/seggev319/logger/issues"
+	},
+	"homepage": "https://github.com/seggev319/logger#readme",
+	"devDependencies": {
+		"babel-cli": "^6.26.0",
+		"eslint": "^4.9.0"
+	},
+	"dependencies": {
+		"global": "^4.3.2",
+		"lodash": "^4.17.4",
+		"minilog": "^3.1.0",
+		"morgan": "^1.9.0",
+		"pretty-error": "^2.1.1"
+	}
+}
